@@ -9,7 +9,7 @@ During this session you will:
 - get a small overview of the prerequisites for this hackathon.
 - learn to implement a simple ball bouncing around the screen.
 - move a player around using the keys.
-- detect intersections between objects
+- detect intersections between objects.
 - pair with other people to write small retro-games.
 - give or get advice from other Haskellers.
 - and, if all goes well, play your own game!
@@ -24,7 +24,7 @@ Start with a laptop that has:
 
 Open up a terminal window, and perform the following steps:
 
-    git clone https://github.com/tojans/retrohackathon
+    git clone https://github.com/ToJans/retrohackathon.git
     cd retrohackathon
     cabal sandbox init
     cabal install --dependencies-only
