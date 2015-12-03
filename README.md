@@ -1,6 +1,8 @@
-# The Belgian Haskell retro-arcade hackathon
+# The Leuven Haskell User Group retro-arcade Hackathon (15 Dec 2015)
 
-Please join us on the very first Belgian Haskell retro-arcade Hackathon.
+Please join us for Belgium's first ever Haskell retro-arcade Hackathon.
+
+If you are not already registered, please do so [here](http://www.meetup.com/Leuven-Haskell-Users-Group/events/227167247/).
 
 ## Session info
 
@@ -14,7 +16,7 @@ During this session you will:
 - give or get advice from other Haskellers.
 - and, if all goes well, play your own game!
 
-## Prerequisites - Do this **BEFORE** you come to the session
+## Prerequisites - Do this **BEFORE** you come to the session, as we do not have enough time to support installation on the spot.
 
 Start with a laptop that has:
 
